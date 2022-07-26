@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "default": "clone-aedb9",
-    "staging": "clone-aedb9"
-  },
-  "targets": {},
-  "etags": {}
-}
